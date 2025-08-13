@@ -1,0 +1,2 @@
+Domain Name,Registrar,Creation Date,Expiration Date,Name Servers
+YOUTUBE.COM,"MarkMonitor, Inc.","[datetime.datetime(2005, 2, 15, 5, 13, 12), datetime.datetime(2005, 2, 15, 5, 13, 12, tzinfo=datetime.timezone.utc)]","[datetime.datetime(2026, 2, 15, 5, 13, 12), datetime.datetime(2026, 2, 15, 0, 0, tzinfo=datetime.timezone.utc)]","['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS4.GOOGLE.COM']"
